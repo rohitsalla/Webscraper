@@ -11,19 +11,7 @@
 
 <h3 align="center">Web Scraping Project</h3>
 
-  <p align="center">
-    Project Files
-    <br />
-    <a href="https://github.com/aravind9722/Flask_app_project"><strong>Explore the Repo »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/aravind9722/Flask_app_project/blob/main/app.py">View app code</a>
-    ·
-    <a href="https://github.com/aravind9722/Flask_app_project/blob/main/Scrapper.py"> Scraper module</a>
-    ·
-    <a href="https://webscrapper-project-aravind.herokuapp.com/">Heroku Link</a>
-  </p>
-</div>
+
 
 
 <!-- ABOUT THE PROJECT -->
